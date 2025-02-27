@@ -228,3 +228,95 @@
 2025-02-26T15:58:32.196Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
 2025-02-26T15:58:32.199Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
 2025-02-26T15:58:32.199Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:14:26.752Z [[32minfo[39m]: Connected to MongoDB
+2025-02-27T04:14:26.762Z [[32minfo[39m]: Dropped username index
+2025-02-27T04:14:32.011Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:14:32.011Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:14:32.014Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:14:32.015Z [[32minfo[39m]: Fetching current user data {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:14:32.018Z [[32minfo[39m]: Fetching places for discover {}
+2025-02-27T04:14:32.019Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:14:32.020Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:14:32.022Z [[33mwarn[39m]: Current user not found {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:14:32.024Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:14:32.024Z [[32minfo[39m]: Fetching current user data {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:14:32.036Z [[33mwarn[39m]: Current user not found {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:14:32.041Z [[32minfo[39m]: Discover places fetched successfully {"count":61,"hasSearch":false}
+2025-02-27T04:14:32.044Z [[32minfo[39m]: Fetching places for discover {}
+2025-02-27T04:14:32.065Z [[32minfo[39m]: Discover places fetched successfully {"count":61,"hasSearch":false}
+2025-02-27T04:14:35.406Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:14:35.406Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:14:35.412Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:14:35.412Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:18:50.260Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:18:50.260Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:18:50.262Z [[32minfo[39m]: Fetching places for discover {}
+2025-02-27T04:18:50.264Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:18:50.264Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:18:50.265Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:18:50.265Z [[32minfo[39m]: Fetching current user data {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:18:50.273Z [[33mwarn[39m]: Current user not found {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:18:50.274Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:18:50.274Z [[32minfo[39m]: Fetching current user data {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:18:50.276Z [[32minfo[39m]: Discover places fetched successfully {"count":61,"hasSearch":false}
+2025-02-27T04:18:50.277Z [[33mwarn[39m]: Current user not found {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:18:50.278Z [[32minfo[39m]: Fetching places for discover {}
+2025-02-27T04:18:50.306Z [[32minfo[39m]: Discover places fetched successfully {"count":61,"hasSearch":false}
+2025-02-27T04:18:51.218Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:18:51.219Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:18:51.221Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:18:51.221Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:18:51.222Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:18:51.222Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:18:51.224Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:18:51.224Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:39.399Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:39.399Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:39.400Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:39.400Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:39.402Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:39.402Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:39.404Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:39.404Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:39.406Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:39.406Z [[32minfo[39m]: Fetching current user data {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:39.408Z [[33mwarn[39m]: Current user not found {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:39.409Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:39.409Z [[32minfo[39m]: Fetching current user data {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:39.410Z [[33mwarn[39m]: Current user not found {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:46.781Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:46.781Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:46.782Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:46.782Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:46.786Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:46.786Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:46.788Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:46.788Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:46.791Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:46.791Z [[32minfo[39m]: Fetching current user data {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:46.793Z [[33mwarn[39m]: Current user not found {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:46.794Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:46.794Z [[32minfo[39m]: Fetching current user data {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:19:46.795Z [[33mwarn[39m]: Current user not found {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:36:04.251Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:36:04.251Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:36:04.253Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:36:04.254Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:36:04.254Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:36:04.254Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:36:04.256Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:36:04.256Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:36:04.259Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:36:04.259Z [[32minfo[39m]: Fetching current user data {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:36:04.262Z [[33mwarn[39m]: Current user not found {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:36:04.263Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:36:04.263Z [[32minfo[39m]: Fetching current user data {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:36:04.264Z [[33mwarn[39m]: Current user not found {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:51:01.060Z [[32minfo[39m]: Fetching places for discover {}
+2025-02-27T04:51:01.084Z [[32minfo[39m]: Discover places fetched successfully {"count":61,"hasSearch":false}
+2025-02-27T04:51:01.087Z [[32minfo[39m]: Fetching places for discover {}
+2025-02-27T04:51:01.116Z [[32minfo[39m]: Discover places fetched successfully {"count":61,"hasSearch":false}
+2025-02-27T04:51:03.998Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:51:03.999Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:51:04.002Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-27T04:51:04.002Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
