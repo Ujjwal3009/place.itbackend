@@ -1,0 +1,230 @@
+2025-02-26T13:44:33.277Z [[32minfo[39m]: Connected to MongoDB
+2025-02-26T13:44:40.545Z [[32minfo[39m]: Attempting to register new user {"email":"ujjwal300@gmail.com"}
+2025-02-26T13:44:40.558Z [[31merror[39m]: Server error during registration {"error":{"errors":{"username":{"name":"ValidatorError","message":"Path `username` is required.","properties":{"message":"Path `username` is required.","type":"required","path":"username"},"kind":"required","path":"username"}},"_message":"User validation failed","name":"ValidationError","message":"User validation failed: username: Path `username` is required."}}
+2025-02-26T13:45:37.266Z [[32minfo[39m]: Connected to MongoDB
+2025-02-26T13:45:42.052Z [[32minfo[39m]: Attempting to register new user {"email":"ujjwal300@gmail.com"}
+2025-02-26T13:45:42.128Z [[32minfo[39m]: New user registered successfully {"userId":"67bf1b061daa52c8e6405374","email":"ujjwal300@gmail.com"}
+2025-02-26T13:45:48.024Z [[32minfo[39m]: Fetching all users
+2025-02-26T13:45:48.034Z [[32minfo[39m]: Users fetched successfully {"count":3}
+2025-02-26T13:46:17.771Z [[32minfo[39m]: Login attempt {"email":"ujjwal300@gmail.com"}
+2025-02-26T13:46:17.839Z [[32minfo[39m]: User logged in successfully {"userId":"67bf1b061daa52c8e6405374","email":"ujjwal300@gmail.com"}
+2025-02-26T13:48:24.297Z [[32minfo[39m]: Login attempt {"email":"ujjwal300@gmail.com"}
+2025-02-26T13:48:24.359Z [[32minfo[39m]: User logged in successfully {"userId":"67bf1b061daa52c8e6405374","email":"ujjwal300@gmail.com"}
+2025-02-26T13:51:07.602Z [[32minfo[39m]: Login attempt {"email":"ujjwal300@gmail.com"}
+2025-02-26T13:51:07.674Z [[32minfo[39m]: User logged in successfully {"userId":"67bf1b061daa52c8e6405374","email":"ujjwal300@gmail.com"}
+2025-02-26T13:53:34.577Z [[32minfo[39m]: Connected to MongoDB
+2025-02-26T14:08:00.751Z [[32minfo[39m]: Login attempt {"email":"ujjwal300@gmail.com"}
+2025-02-26T14:08:00.817Z [[32minfo[39m]: User logged in successfully {"userId":"67bf1b061daa52c8e6405374","email":"ujjwal300@gmail.com"}
+2025-02-26T14:10:50.518Z [[32minfo[39m]: Login attempt {"email":"ujjwal300@gmail.com"}
+2025-02-26T14:10:50.588Z [[32minfo[39m]: User logged in successfully {"userId":"67bf1b061daa52c8e6405374","email":"ujjwal300@gmail.com"}
+2025-02-26T14:10:50.685Z [[32minfo[39m]: Token verification attempt {"userId":"67bf1b061daa52c8e6405374"}
+2025-02-26T14:10:50.691Z [[32minfo[39m]: Token verification attempt {"userId":"67bf1b061daa52c8e6405374"}
+2025-02-26T14:10:50.693Z [[32minfo[39m]: Fetching current user data {"userId":"67bf1b061daa52c8e6405374"}
+2025-02-26T14:10:50.699Z [[32minfo[39m]: Current user data fetched successfully {"userId":"67bf1b061daa52c8e6405374"}
+2025-02-26T14:10:50.701Z [[32minfo[39m]: Fetching current user data {"userId":"67bf1b061daa52c8e6405374"}
+2025-02-26T14:10:50.706Z [[32minfo[39m]: Current user data fetched successfully {"userId":"67bf1b061daa52c8e6405374"}
+2025-02-26T14:10:56.012Z [[32minfo[39m]: User logout attempt {"userId":"67bf1b061daa52c8e6405374"}
+2025-02-26T14:10:56.013Z [[32minfo[39m]: User logged out successfully {"userId":"67bf1b061daa52c8e6405374"}
+2025-02-26T14:11:07.256Z [[32minfo[39m]: Login attempt {"email":"ujjwal300@gmail.com"}
+2025-02-26T14:11:07.328Z [[32minfo[39m]: User logged in successfully {"userId":"67bf1b061daa52c8e6405374","email":"ujjwal300@gmail.com"}
+2025-02-26T14:11:07.372Z [[32minfo[39m]: Token verification attempt {"userId":"67bf1b061daa52c8e6405374"}
+2025-02-26T14:11:07.374Z [[32minfo[39m]: Token verification attempt {"userId":"67bf1b061daa52c8e6405374"}
+2025-02-26T14:11:07.376Z [[32minfo[39m]: Fetching current user data {"userId":"67bf1b061daa52c8e6405374"}
+2025-02-26T14:11:07.379Z [[32minfo[39m]: Current user data fetched successfully {"userId":"67bf1b061daa52c8e6405374"}
+2025-02-26T14:11:07.381Z [[32minfo[39m]: Fetching current user data {"userId":"67bf1b061daa52c8e6405374"}
+2025-02-26T14:11:07.383Z [[32minfo[39m]: Current user data fetched successfully {"userId":"67bf1b061daa52c8e6405374"}
+2025-02-26T14:12:57.481Z [[32minfo[39m]: Token verification attempt {"userId":"67bf1b061daa52c8e6405374"}
+2025-02-26T14:12:57.482Z [[32minfo[39m]: Token verification attempt {"userId":"67bf1b061daa52c8e6405374"}
+2025-02-26T14:24:30.735Z [[32minfo[39m]: User logout attempt {"userId":"67bf1b061daa52c8e6405374"}
+2025-02-26T14:24:30.736Z [[32minfo[39m]: User logged out successfully {"userId":"67bf1b061daa52c8e6405374"}
+2025-02-26T14:24:49.446Z [[32minfo[39m]: Attempting to register new user {"email":"ujjwal3002@gmail.com"}
+2025-02-26T14:24:49.529Z [[31merror[39m]: Server error during registration {"error":{"index":0,"code":11000,"keyPattern":{"username":1},"keyValue":{"username":null}}}
+2025-02-26T14:24:57.237Z [[32minfo[39m]: Attempting to register new user {"email":"ujjwal3009@gmail.com"}
+2025-02-26T14:24:57.312Z [[31merror[39m]: Server error during registration {"error":{"index":0,"code":11000,"keyPattern":{"username":1},"keyValue":{"username":null}}}
+2025-02-26T14:27:37.150Z [[32minfo[39m]: Connected to MongoDB
+2025-02-26T14:27:37.158Z [[32minfo[39m]: Dropped username index
+2025-02-26T14:27:46.599Z [[32minfo[39m]: Attempting to register new user {"email":"ujjwal3009@gmail.com"}
+2025-02-26T14:27:46.669Z [[32minfo[39m]: New user registered successfully {"userId":"67bf24e2239f7c61716d1966","email":"ujjwal3009@gmail.com"}
+2025-02-26T14:27:46.682Z [[32minfo[39m]: Token verification attempt {"userId":"67bf24e2239f7c61716d1966"}
+2025-02-26T14:27:46.684Z [[32minfo[39m]: Token verification attempt {"userId":"67bf24e2239f7c61716d1966"}
+2025-02-26T14:33:22.657Z [[32minfo[39m]: Connected to MongoDB
+2025-02-26T14:33:22.663Z [[32minfo[39m]: Dropped username index
+2025-02-26T14:36:06.246Z [[32minfo[39m]: Connected to MongoDB
+2025-02-26T14:36:06.253Z [[32minfo[39m]: Dropped username index
+2025-02-26T14:36:24.749Z [[32minfo[39m]: Token verification attempt {"userId":"67bf24e2239f7c61716d1966"}
+2025-02-26T14:36:24.754Z [[32minfo[39m]: Token verification attempt {"userId":"67bf24e2239f7c61716d1966"}
+2025-02-26T14:36:24.758Z [[32minfo[39m]: Fetching current user data {"userId":"67bf24e2239f7c61716d1966"}
+2025-02-26T14:36:24.768Z [[31merror[39m]: Error fetching current user {"error":{"path":"followers"}}
+2025-02-26T14:36:24.769Z [[32minfo[39m]: Fetching current user data {"userId":"67bf24e2239f7c61716d1966"}
+2025-02-26T14:36:24.772Z [[31merror[39m]: Error fetching current user {"error":{"path":"followers"}}
+2025-02-26T14:36:26.316Z [[32minfo[39m]: User logout attempt {"userId":"67bf24e2239f7c61716d1966"}
+2025-02-26T14:36:26.316Z [[32minfo[39m]: User logged out successfully {"userId":"67bf24e2239f7c61716d1966"}
+2025-02-26T14:36:50.700Z [[32minfo[39m]: Attempting to register new user {"email":"ujjwal3004@gmail.com"}
+2025-02-26T14:36:50.726Z [[31merror[39m]: Server error during registration {"error":{"errors":{"fullName":{"name":"ValidatorError","message":"Path `fullName` is required.","properties":{"message":"Path `fullName` is required.","type":"required","path":"fullName"},"kind":"required","path":"fullName"},"username":{"name":"ValidatorError","message":"Path `username` is required.","properties":{"message":"Path `username` is required.","type":"required","path":"username"},"kind":"required","path":"username"}},"_message":"User validation failed","name":"ValidationError","message":"User validation failed: fullName: Path `fullName` is required., username: Path `username` is required."}}
+2025-02-26T14:37:49.771Z [[32minfo[39m]: Connected to MongoDB
+2025-02-26T14:37:49.777Z [[32minfo[39m]: Dropped username index
+2025-02-26T14:37:52.205Z [[32minfo[39m]: Attempting to register new user {"email":"ujjwal3004@gmail.com"}
+2025-02-26T14:37:52.211Z [[31merror[39m]: Server error during registration {"error":{}}
+2025-02-26T14:40:03.747Z [[32minfo[39m]: Connected to MongoDB
+2025-02-26T14:40:03.755Z [[32minfo[39m]: Dropped username index
+2025-02-26T14:40:06.801Z [[32minfo[39m]: Attempting to register new user {"email":"ujjwal3004@gmail.com"}
+2025-02-26T14:40:06.813Z [[32minfo[39m]: Generated username for new user {"email":"ujjwal3004@gmail.com","username":"ujjwal3004"}
+2025-02-26T14:40:06.883Z [[32minfo[39m]: New user registered successfully {"userId":"67bf27c614d8db2ce8159a03","email":"ujjwal3004@gmail.com","username":"ujjwal3004"}
+2025-02-26T14:40:06.896Z [[32minfo[39m]: Token verification attempt {"userId":"67bf27c614d8db2ce8159a03"}
+2025-02-26T14:40:06.898Z [[32minfo[39m]: Token verification attempt {"userId":"67bf27c614d8db2ce8159a03"}
+2025-02-26T14:48:00.345Z [[32minfo[39m]: Token verification attempt {"userId":"67bf27c614d8db2ce8159a03"}
+2025-02-26T14:48:00.347Z [[32minfo[39m]: Token verification attempt {"userId":"67bf27c614d8db2ce8159a03"}
+2025-02-26T14:48:00.348Z [[32minfo[39m]: Token verification attempt {"userId":"67bf27c614d8db2ce8159a03"}
+2025-02-26T14:48:00.349Z [[32minfo[39m]: Token verification attempt {"userId":"67bf27c614d8db2ce8159a03"}
+2025-02-26T14:48:00.354Z [[32minfo[39m]: Fetching current user data {"userId":"67bf27c614d8db2ce8159a03"}
+2025-02-26T14:48:00.359Z [[31merror[39m]: Error fetching current user {"error":{"path":"followers"}}
+2025-02-26T14:48:00.361Z [[32minfo[39m]: Fetching current user data {"userId":"67bf27c614d8db2ce8159a03"}
+2025-02-26T14:48:00.363Z [[31merror[39m]: Error fetching current user {"error":{"path":"followers"}}
+2025-02-26T14:52:50.886Z [[32minfo[39m]: User logout attempt {"userId":"67bf27c614d8db2ce8159a03"}
+2025-02-26T14:52:50.886Z [[32minfo[39m]: User logged out successfully {"userId":"67bf27c614d8db2ce8159a03"}
+2025-02-26T14:53:26.817Z [[32minfo[39m]: Connected to MongoDB
+2025-02-26T14:53:26.824Z [[32minfo[39m]: Dropped username index
+2025-02-26T14:55:38.425Z [[32minfo[39m]: Connected to MongoDB
+2025-02-26T14:55:38.432Z [[32minfo[39m]: Dropped username index
+2025-02-26T14:55:54.715Z [[32minfo[39m]: Connected to MongoDB
+2025-02-26T14:55:54.721Z [[32minfo[39m]: Dropped username index
+2025-02-26T15:21:51.241Z [[32minfo[39m]: Fetching all users
+2025-02-26T15:21:51.266Z [[32minfo[39m]: Users fetched successfully {"count":50}
+2025-02-26T15:24:36.358Z [[32minfo[39m]: Connected to MongoDB
+2025-02-26T15:24:36.365Z [[32minfo[39m]: Dropped username index
+2025-02-26T15:24:37.594Z [[32minfo[39m]: Connected to MongoDB
+2025-02-26T15:24:37.601Z [[32minfo[39m]: Dropped username index
+2025-02-26T15:24:47.593Z [[32minfo[39m]: Connected to MongoDB
+2025-02-26T15:24:47.605Z [[32minfo[39m]: Dropped username index
+2025-02-26T15:26:12.157Z [[32minfo[39m]: Connected to MongoDB
+2025-02-26T15:26:12.166Z [[32minfo[39m]: Dropped username index
+2025-02-26T15:26:44.009Z [[32minfo[39m]: Fetching all places without pagination
+2025-02-26T15:26:44.046Z [[32minfo[39m]: All places fetched successfully {"count":85}
+2025-02-26T15:32:48.963Z [[32minfo[39m]: Attempting to register new user {"email":"ujjwal300912@gmail.com"}
+2025-02-26T15:32:48.972Z [[32minfo[39m]: Generated username for new user {"email":"ujjwal300912@gmail.com","username":"ujjwal300912"}
+2025-02-26T15:32:49.042Z [[32minfo[39m]: New user registered successfully {"userId":"67bf342046e843c8518a7de9","email":"ujjwal300912@gmail.com","username":"ujjwal300912"}
+2025-02-26T15:32:49.055Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:32:49.055Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:32:49.058Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:32:49.058Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:33:08.997Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:35:04.186Z [[32minfo[39m]: Connected to MongoDB
+2025-02-26T15:35:04.195Z [[32minfo[39m]: Dropped username index
+2025-02-26T15:35:29.297Z [[32minfo[39m]: Fetching places for discover {"search":"temple"}
+2025-02-26T15:35:29.331Z [[32minfo[39m]: Discover places fetched successfully {"count":30,"hasSearch":true}
+2025-02-26T15:35:45.059Z [[32minfo[39m]: Fetching places for discover {}
+2025-02-26T15:35:45.085Z [[32minfo[39m]: Discover places fetched successfully {"count":85,"hasSearch":false}
+2025-02-26T15:38:26.935Z [[32minfo[39m]: Fetching places for discover {}
+2025-02-26T15:38:26.952Z [[32minfo[39m]: Discover places fetched successfully {"count":85,"hasSearch":false}
+2025-02-26T15:38:50.633Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:38:50.634Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:38:50.637Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:38:50.637Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:38:50.638Z [[32minfo[39m]: Fetching places for discover {}
+2025-02-26T15:38:50.642Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:38:50.642Z [[32minfo[39m]: Fetching current user data {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:38:50.654Z [[32minfo[39m]: Current user data fetched successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:38:50.659Z [[32minfo[39m]: Discover places fetched successfully {"count":85,"hasSearch":false}
+2025-02-26T15:38:50.660Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:38:50.660Z [[32minfo[39m]: Fetching current user data {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:38:50.661Z [[32minfo[39m]: Fetching places for discover {}
+2025-02-26T15:38:50.663Z [[32minfo[39m]: Current user data fetched successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:38:50.683Z [[32minfo[39m]: Discover places fetched successfully {"count":85,"hasSearch":false}
+2025-02-26T15:39:03.883Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:39:03.883Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:39:03.884Z [[32minfo[39m]: Fetching places for discover {}
+2025-02-26T15:39:03.886Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:39:03.887Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:39:03.902Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:39:03.902Z [[32minfo[39m]: Fetching current user data {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:39:03.905Z [[32minfo[39m]: Discover places fetched successfully {"count":85,"hasSearch":false}
+2025-02-26T15:39:03.906Z [[32minfo[39m]: Current user data fetched successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:39:03.908Z [[32minfo[39m]: Fetching places for discover {}
+2025-02-26T15:39:03.908Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:39:03.908Z [[32minfo[39m]: Fetching current user data {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:39:03.910Z [[32minfo[39m]: Current user data fetched successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:39:03.920Z [[32minfo[39m]: Discover places fetched successfully {"count":85,"hasSearch":false}
+2025-02-26T15:39:58.119Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:39:58.120Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:39:58.121Z [[32minfo[39m]: Fetching places for discover {}
+2025-02-26T15:39:58.123Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:39:58.123Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:39:58.133Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:39:58.133Z [[32minfo[39m]: Fetching current user data {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:39:58.136Z [[32minfo[39m]: Discover places fetched successfully {"count":85,"hasSearch":false}
+2025-02-26T15:39:58.139Z [[32minfo[39m]: Current user data fetched successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:39:58.142Z [[32minfo[39m]: Fetching places for discover {}
+2025-02-26T15:39:58.144Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:39:58.144Z [[32minfo[39m]: Fetching current user data {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:39:58.151Z [[32minfo[39m]: Current user data fetched successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:39:58.153Z [[32minfo[39m]: Discover places fetched successfully {"count":85,"hasSearch":false}
+2025-02-26T15:40:09.050Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:40:09.051Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:40:09.053Z [[32minfo[39m]: Fetching places for discover {}
+2025-02-26T15:40:09.056Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:40:09.056Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:40:09.067Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:40:09.068Z [[32minfo[39m]: Fetching current user data {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:40:09.070Z [[32minfo[39m]: Discover places fetched successfully {"count":85,"hasSearch":false}
+2025-02-26T15:40:09.072Z [[32minfo[39m]: Current user data fetched successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:40:09.076Z [[32minfo[39m]: Fetching places for discover {}
+2025-02-26T15:40:09.079Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:40:09.079Z [[32minfo[39m]: Fetching current user data {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:40:09.082Z [[32minfo[39m]: Current user data fetched successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:40:09.090Z [[32minfo[39m]: Discover places fetched successfully {"count":85,"hasSearch":false}
+2025-02-26T15:43:05.685Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:43:05.685Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:43:05.687Z [[32minfo[39m]: Fetching places for discover {}
+2025-02-26T15:43:05.688Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:43:05.688Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:43:05.690Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:43:05.690Z [[32minfo[39m]: Fetching current user data {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:43:05.697Z [[32minfo[39m]: Current user data fetched successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:43:05.698Z [[32minfo[39m]: Discover places fetched successfully {"count":85,"hasSearch":false}
+2025-02-26T15:43:05.700Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:43:05.700Z [[32minfo[39m]: Fetching current user data {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:43:05.701Z [[32minfo[39m]: Fetching places for discover {}
+2025-02-26T15:43:05.704Z [[32minfo[39m]: Current user data fetched successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:43:05.723Z [[32minfo[39m]: Discover places fetched successfully {"count":85,"hasSearch":false}
+2025-02-26T15:43:27.840Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:43:27.841Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:43:27.842Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:43:27.843Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:43:36.321Z [[32minfo[39m]: Fetching places for discover {}
+2025-02-26T15:43:36.343Z [[32minfo[39m]: Discover places fetched successfully {"count":85,"hasSearch":false}
+2025-02-26T15:43:36.345Z [[32minfo[39m]: Fetching places for discover {}
+2025-02-26T15:43:36.359Z [[32minfo[39m]: Discover places fetched successfully {"count":85,"hasSearch":false}
+2025-02-26T15:49:24.131Z [[32minfo[39m]: Connected to MongoDB
+2025-02-26T15:49:24.138Z [[32minfo[39m]: Dropped username index
+2025-02-26T15:51:33.516Z [[32minfo[39m]: Connected to MongoDB
+2025-02-26T15:51:33.523Z [[32minfo[39m]: Dropped username index
+2025-02-26T15:52:51.755Z [[32minfo[39m]: Connected to MongoDB
+2025-02-26T15:52:51.764Z [[32minfo[39m]: Dropped username index
+2025-02-26T15:54:33.637Z [[32minfo[39m]: Connected to MongoDB
+2025-02-26T15:54:33.645Z [[32minfo[39m]: Dropped username index
+2025-02-26T15:56:59.497Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:56:59.497Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:56:59.503Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:56:59.504Z [[32minfo[39m]: Fetching current user data {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:56:59.507Z [[32minfo[39m]: Fetching places for discover {}
+2025-02-26T15:56:59.509Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:56:59.510Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:56:59.512Z [[33mwarn[39m]: Current user not found {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:56:59.524Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:56:59.524Z [[32minfo[39m]: Fetching current user data {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:56:59.527Z [[33mwarn[39m]: Current user not found {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:56:59.532Z [[32minfo[39m]: Discover places fetched successfully {"count":61,"hasSearch":false}
+2025-02-26T15:56:59.533Z [[32minfo[39m]: Fetching places for discover {}
+2025-02-26T15:56:59.547Z [[32minfo[39m]: Discover places fetched successfully {"count":61,"hasSearch":false}
+2025-02-26T15:57:37.464Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:57:37.464Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:57:37.467Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:57:37.468Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:57:43.977Z [[32minfo[39m]: Fetching places for discover {}
+2025-02-26T15:57:44.004Z [[32minfo[39m]: Discover places fetched successfully {"count":61,"hasSearch":false}
+2025-02-26T15:57:44.007Z [[32minfo[39m]: Fetching places for discover {}
+2025-02-26T15:57:44.022Z [[32minfo[39m]: Discover places fetched successfully {"count":61,"hasSearch":false}
+2025-02-26T15:58:32.196Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:58:32.196Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:58:32.199Z [[32minfo[39m]: Token verified successfully {"userId":"67bf342046e843c8518a7de9"}
+2025-02-26T15:58:32.199Z [[32minfo[39m]: Token verification attempt {"userId":"67bf342046e843c8518a7de9"}

@@ -1,0 +1,9 @@
+2025-02-26T13:44:40.558Z [[31merror[39m]: Server error during registration {"error":{"errors":{"username":{"name":"ValidatorError","message":"Path `username` is required.","properties":{"message":"Path `username` is required.","type":"required","path":"username"},"kind":"required","path":"username"}},"_message":"User validation failed","name":"ValidationError","message":"User validation failed: username: Path `username` is required."}}
+2025-02-26T14:24:49.529Z [[31merror[39m]: Server error during registration {"error":{"index":0,"code":11000,"keyPattern":{"username":1},"keyValue":{"username":null}}}
+2025-02-26T14:24:57.312Z [[31merror[39m]: Server error during registration {"error":{"index":0,"code":11000,"keyPattern":{"username":1},"keyValue":{"username":null}}}
+2025-02-26T14:36:24.768Z [[31merror[39m]: Error fetching current user {"error":{"path":"followers"}}
+2025-02-26T14:36:24.772Z [[31merror[39m]: Error fetching current user {"error":{"path":"followers"}}
+2025-02-26T14:36:50.726Z [[31merror[39m]: Server error during registration {"error":{"errors":{"fullName":{"name":"ValidatorError","message":"Path `fullName` is required.","properties":{"message":"Path `fullName` is required.","type":"required","path":"fullName"},"kind":"required","path":"fullName"},"username":{"name":"ValidatorError","message":"Path `username` is required.","properties":{"message":"Path `username` is required.","type":"required","path":"username"},"kind":"required","path":"username"}},"_message":"User validation failed","name":"ValidationError","message":"User validation failed: fullName: Path `fullName` is required., username: Path `username` is required."}}
+2025-02-26T14:37:52.211Z [[31merror[39m]: Server error during registration {"error":{}}
+2025-02-26T14:48:00.359Z [[31merror[39m]: Error fetching current user {"error":{"path":"followers"}}
+2025-02-26T14:48:00.363Z [[31merror[39m]: Error fetching current user {"error":{"path":"followers"}}
